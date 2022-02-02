@@ -46,7 +46,7 @@ function handleClick(e) {
     setBoardHoverClass()
   }
 }
-
+// qweqwe
 function endGame(draw) {
   if (draw) {
     winningMessageTextElement.innerText = 'Draw!'
